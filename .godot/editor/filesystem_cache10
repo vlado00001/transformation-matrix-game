@@ -1,0 +1,10 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1793122456
+default_env.tres::Environment::6466835209219422312::1793122125::0::1::::<><><>0<>0<><>::
+::res://assets/::1792482708
+godot.png::CompressedTexture2D::1065609277323404983::1792482695::1792482708::1::::<><><>0<>0<>62ba5fec5e40ecaa71c4e96a761721ae<>res://.godot/imported/godot.png-01fd4266655fd796f1c6b748927d86e6.ctex::
+images.jpeg::CompressedTexture2D::1634771080385991974::1792481765::1792481767::1::::<><><>0<>0<>609cc7d68c8770cc4b6cba3feacc087d<>res://.godot/imported/images.jpeg-48225cb2313b397b445cdb5bccc8b15e.ctex::
+::res://scenes/::1793122124
+Node2D.tscn::PackedScene::8519353863813039939::1793122124::0::1::::<><><>0<>0<><>::uid://dsk2gtnh2jm03::::res://scripts/Node2D.gd
+::res://scripts/::1793122124
+Node2D.gd::GDScript::8444956106053215414::1793122124::0::1::::<>Node2D<><>0<>0<><>::
